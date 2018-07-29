@@ -1,0 +1,12 @@
+.text-center {
+    display: table;
+    margin: 0 auto;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.form-signin {
+    width:400px;
+}
